@@ -1,0 +1,25 @@
+{
+  "name": "dai-provinces-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emilia123456/dai-provinces-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emilia123456/dai-provinces-test/issues"
+  },
+  "homepage": "https://github.com/Emilia123456/dai-provinces-test#readme",
+  "dependencies": {
+    "nodemon": "^3.1.0",
+    "pg": "^8.11.5"
+  }
+}
